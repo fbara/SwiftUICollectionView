@@ -13,6 +13,7 @@
 		ADF2227F236E9BBD00366D1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADF2227E236E9BBD00366D1E /* Assets.xcassets */; };
 		ADF22282236E9BBD00366D1E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADF22281236E9BBD00366D1E /* Preview Assets.xcassets */; };
 		ADF22285236E9BBD00366D1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADF22283236E9BBD00366D1E /* LaunchScreen.storyboard */; };
+		ADF2228D236F3A5100366D1E /* PhotosCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2228C236F3A5100366D1E /* PhotosCollectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ADF22281236E9BBD00366D1E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ADF22284236E9BBD00366D1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADF22286236E9BBD00366D1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADF2228C236F3A5100366D1E /* PhotosCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosCollectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ADF22278236E9BBB00366D1E /* AppDelegate.swift */,
 				ADF2227A236E9BBB00366D1E /* SceneDelegate.swift */,
 				ADF2227C236E9BBB00366D1E /* ContentView.swift */,
+				ADF2228C236F3A5100366D1E /* PhotosCollectionView.swift */,
 				ADF2227E236E9BBD00366D1E /* Assets.xcassets */,
 				ADF22283236E9BBD00366D1E /* LaunchScreen.storyboard */,
 				ADF22286236E9BBD00366D1E /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADF22279236E9BBB00366D1E /* AppDelegate.swift in Sources */,
+				ADF2228D236F3A5100366D1E /* PhotosCollectionView.swift in Sources */,
 				ADF2227B236E9BBB00366D1E /* SceneDelegate.swift in Sources */,
 				ADF2227D236E9BBB00366D1E /* ContentView.swift in Sources */,
 			);
